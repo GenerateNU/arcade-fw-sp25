@@ -1,4 +1,4 @@
-name: Generate Hardware CI/CD
+name: Arcade CI/CD
 
 on:
     push:
