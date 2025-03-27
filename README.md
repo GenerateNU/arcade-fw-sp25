@@ -10,7 +10,7 @@ If you haven't pulled yet:
 
 
 Now, to go into the repository and make your branch off of main:
-- `cd candle-maker-fw-sp25` to go into the folder
+- `cd arcade-fw-sp25` to go into the folder
 - you should be on main, but `git status` or `git branch` to see which branch you are on
   - if you are not on main, type `git checkout main` to go to main
 - if you are now on main, type `git pull` to pull the latest changes from our online github repo (repository) and update you local main branch with them
